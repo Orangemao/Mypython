@@ -6,5 +6,3 @@ if resp.status_code == 200:
 
 print('_________________')
 
-resp = requests.get("https://www.sohu.com/")
-print(resp.status_code)
