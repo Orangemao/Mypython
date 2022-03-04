@@ -4,7 +4,15 @@
         列表也是一种结构化的、非标量类型，操作一个列表类型的变量，除了可以使用运算符还可以使用它的方法。
 """
 # 列表元素的遍历
+# 第一种方法
 items = ['python','java','go','kotlin']
 print(len(items))
 for index in range(len(items)):
     print(items[index],index)
+
+print('-----------------------------')
+
+# 第二种方法
+for item in items:
+    print(item)
+
