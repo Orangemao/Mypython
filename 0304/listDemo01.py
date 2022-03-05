@@ -16,3 +16,6 @@ print('-----------------------------')
 for item in items:
     print(item)
 
+# 元素位置和次数
+
+
