@@ -1,2 +1,2 @@
 # Mypython
-<Record my learning process of Python and motivate myself>
+## Record my learning process of Python and motivate myself
